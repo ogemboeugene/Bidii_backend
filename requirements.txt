@@ -19,4 +19,3 @@ python-dateutil
 Flask-Security
 faker
 Flask-Mail
-flask_marshmallow
